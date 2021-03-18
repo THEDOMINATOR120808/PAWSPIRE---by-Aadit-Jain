@@ -1,0 +1,62 @@
+.background {
+    background-image: url("Background.jpg");
+    background-size: 100%;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#heading
+{
+    background-color: aqua;
+    margin-top: 0px;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Akaya Telivigala';
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+#menu {
+    padding-right: 490px;
+}
+
+#about {
+    padding-left: 490px;
+}
+
+#explanation {
+    background-color: blue;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+
+#cat {
+    padding-right: 450px;
+    padding-left: 20px;
+}
+
+body {
+    background-color: teal;
+}
+
+#about_pet {
+    font-size: 20px;
+}

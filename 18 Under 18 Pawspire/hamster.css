@@ -1,0 +1,51 @@
+.hamster {
+    background-image: url("hamster_background.png");
+    background-size: 100%;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#heading
+{
+    background-color: aqua;
+    margin-top: 0px;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Akaya Telivigala';
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+#menu {
+    padding-right: 490px;
+}
+
+#about {
+    padding-left: 490px;
+}
+
+#hamster_explaination {
+    font-size: 20px;
+    font-weight:300;
+    color: black;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: -20px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
